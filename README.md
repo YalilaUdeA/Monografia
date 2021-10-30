@@ -1,4 +1,4 @@
-# Monografia
+# Monografía
 ### Tesis o trabajo de investigación presentada(o) como requisito parcial para optar al título de:
 Especialista en Analítica y Ciencia de Datos
 ## Título
