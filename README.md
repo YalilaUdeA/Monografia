@@ -1,7 +1,7 @@
 # Monografia
 ### Tesis o trabajo de investigación presentada(o) como requisito parcial para optar al título de:
 Especialista en Analítica y Ciencia de Datos
-# Título
+## Título
 ## Clasificación de Flores con Redes Neuronales Convolucionales
 ## Resumen
 En los últimos años las redes neuronales artificiales (ANN) han tenido un crecimiento muy importante dentro del área de aprendizaje automático gracias a los avances tecnológicos. Generación de grandes bases de datos, mejores modelos y nuevas ideas para el mejoramiento continuo de los diferentes algoritmos.  
